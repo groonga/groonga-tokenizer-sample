@@ -1,0 +1,3 @@
+register tokenizers/sample
+
+tokenize TokenSample "abc d e f"

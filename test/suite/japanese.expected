@@ -1,0 +1,40 @@
+register tokenizers/sample
+[[0,0.0,0.0],true]
+tokenize TokenSample "あいう え お"
+[
+  [
+    0,
+    0.0,
+    0.0
+  ],
+  [
+    {
+      "value": "あ",
+      "position": 0
+    },
+    {
+      "value": "い",
+      "position": 1
+    },
+    {
+      "value": "う",
+      "position": 2
+    },
+    {
+      "value": " ",
+      "position": 3
+    },
+    {
+      "value": "え",
+      "position": 4
+    },
+    {
+      "value": " ",
+      "position": 5
+    },
+    {
+      "value": "お",
+      "position": 6
+    }
+  ]
+]
