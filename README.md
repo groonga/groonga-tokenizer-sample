@@ -2,7 +2,7 @@
 
 ## Install
 
-Install libgroonga-dev
+Install libgroonga-dev.
 
 Build this tokenizer.
 
